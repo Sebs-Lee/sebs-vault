@@ -4,10 +4,7 @@ Welcome to my knowledge vault! Here you'll find various posts and notes on diffe
 
 ## Categories
 
-- [Technology](/post/technology/)
-- [Programming](/post/programming/) 
-- [DevOps](/post/devops/)
-- [Cloud Computing](/post/cloud/)
+*Coming soon...*
 
 ## Recent Posts
 
